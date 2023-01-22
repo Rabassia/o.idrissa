@@ -1,6 +1,6 @@
 ---
 title: "Dr Idrissa OUEDRAOGO"
-image: idrissa_github.jpg
+image: idrissa2.jpg
 about:
   template: trestles
   image-shape: round
@@ -17,24 +17,55 @@ about:
 
 :::{#hero-heading}
 
-**Idrissa OUEDRAOGO** is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+**Idrissa OUEDRAOGO** est enseignant-chercheur au Centre Universitaire de Dori/Université Thomas SANKARA. Il est également enseignant-chercheur associé au Laboratoire de Biologie et Ecologie Animales de l'Ecole Doctorale Sciences et Technologies de l'Université Joseph Ki-Zerbo où il a conduit ses travaux de thèse de doctorat. Il enseigne dans les domaines de la biologie et de l'écologie animale. Ses travaux de recherche portent sur l'analyse de la dynamique des communautés animales notamment dans le contexte du  changement climatique et des pressions liées aux activités anthropiques au Burkina Faso. Passionné de l'informatique, Idrissa consacre souvent du temps au developpement de technologies pour la collecte de données climatiques et biophysiques, indispensables à l'analyse et à la modélisation des phénomènes écologiques. 
 
 ## Education
 
-Centre Universitaire de Dori/Université Thomas SANKARA |
-PhD in Animal Biology and Ecology | Sept 2013 - July 2018
+Université Ouaga I Professeur Joseph Ki-Zerbo | Ouagadougou, Burkina Faso
+PhD en Biologie et Ecologie Animales | 2013 - 2018
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Université de Ouagadougou | Ouagadougou, Burkina Faso
+D.E.A en Biologie et Ecologie Animales  | 2011 - 2013
+
+Université de Ouagadougou | Ouagadougou, Burkina Faso
+Maîtrise en Biologie et Physiologie Animales |2009 - 2010
+
+Université de Ouagadougou | Ouagadougou, Burkina Faso
+Licences ès Sciences Biologiques | 2008 - 2009
+
+Université de Ouagadougou | Ouagadougou, Burkina Faso
+DEUG II Chimie-Biologie| 2007 - 2008
+
+## Recherche
+
+- Biologie animale
+  - Diversité faunistique et distribution des espèces animales (mollusques, poissons, zooplancton,
+crocodiles, etc.)
+
+- Invasion Biologique
+  - Dynamique des espèces invasives de mollusques d’eau douce au Burkina Faso
+
+- Ecologie appliquée
+  - Écologie et modélisation des écosystèmes aquatiques dans le but de proposer des outils d’évaluation de leur état de santé
+
+
+## Enseignement
+
+- Biologie cellulaire
+- Histologie
+- Ecologie fondamentale
+- Bioclimatologie
+- Informatique appliquée (analyse de données)
+
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+## Financements, bourses, distinctions
 
 :::
 
 
-Pour apprendre plus sur mon site, visitez <https://rabassia.github.io/>.
+site github: <https://rabassia.github.io/>.
 
