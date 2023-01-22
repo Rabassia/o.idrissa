@@ -1,11 +1,40 @@
 ---
-title: "base_bibliographique"
+title: "Dr Idrissa OUEDRAOGO"
+image: idrissa_github.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Github
+      icon: github
+      href: https://github.com/Rabassia 
+    - text: Twitter
+      icon: twitter
+      href: https://twitter.com/droidrissa
+  id: hero-heading
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Idrissa OUEDRAOGO** is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
 
-```{r}
-1 + 1
-```
+## Education
+
+Centre Universitaire de Dori/Université Thomas SANKARA |
+PhD in Animal Biology and Ecology | Sept 2013 - July 2018
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
+
+
+Pour apprendre plus sur mon site, visitez <https://rabassia.github.io/>.
+

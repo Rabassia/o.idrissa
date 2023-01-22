@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "base_bibliographique"
+  title: "Gestion de base de données bibliographiques"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Accueil
+      - formations.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
+    mainfont: arial
+    fontsize: 1rem
     css: styles.css
     toc: true
 

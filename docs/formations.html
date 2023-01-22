@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="idrissa">
 
-<title>Gestion de base de données bibliographiques - Dr Idrissa OUEDRAOGO</title>
+<title>Gestion de base de données bibliographiques - Formations</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -79,11 +81,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Accueil</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./formations.html">
+    <a class="nav-link active" href="./formations.html" aria-current="page">
  <span class="menu-text">Formations</span></a>
   </li>  
 </ul>
@@ -96,53 +98,58 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#premier-site" id="toc-premier-site" class="nav-link active" data-scroll-target="#premier-site">Premier site</a></li>
+  <li><a href="#second-site" id="toc-second-site" class="nav-link" data-scroll-target="#second-site">second site</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="idrissa_github.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dr Idrissa OUEDRAOGO</h1>
+<h1 class="title">Formations</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>idrissa </p>
+          </div>
   </div>
+    
+  
+    
+  </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/Rabassia" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://twitter.com/droidrissa" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p><strong>Idrissa OUEDRAOGO</strong> is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>Centre Universitaire de Dori/Université Thomas SANKARA | PhD in Animal Biology and Ecology | Sept 2013 - July 2018</p>
-<p>Macalester College | St.&nbsp;Paul MA B.A in Economics | Sept 2007 - June 2011</p>
+
+<section id="premier-site" class="level2">
+<h2 class="anchored" data-anchor-id="premier-site">Premier site</h2>
+<ul>
+<li>station 1</li>
+<li>station 2</li>
+</ul>
 </section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p>Wengo Analytics | Head Data Scientist | April 2018 - present</p>
-<p>GeoScynce | Chief Analyst | Sept 2012 - April 2018</p>
+<section id="second-site" class="level2">
+<h2 class="anchored" data-anchor-id="second-site">second site</h2>
+<ul>
+<li>station 3</li>
+<li>station 4</li>
+</ul>
+
+
 </section>
-</div></div>
-</div>
-
-<p>Pour apprendre plus sur mon site, visitez <a href="https://rabassia.github.io/" class="uri">https://rabassia.github.io/</a>.</p>
-
-
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -165,6 +172,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

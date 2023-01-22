@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "base_bibliographique",
+    "title": "Dr Idrissa OUEDRAOGO",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Github\n  \n  \n    \n     Twitter\n  \n\n  \n  \nIdrissa OUEDRAOGO is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nCentre Universitaire de Dori/Université Thomas SANKARA | PhD in Animal Biology and Ecology | Sept 2013 - July 2018\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\nPour apprendre plus sur mon site, visitez https://rabassia.github.io/."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "formations.html#télécharger-zotero",
+    "href": "formations.html#télécharger-zotero",
+    "title": "Formations",
+    "section": "Télécharger Zotero",
+    "text": "Télécharger Zotero\n\n\n\nréférences bibliographiques"
+  },
+  {
+    "objectID": "formations.html",
+    "href": "formations.html",
+    "title": "Formations",
+    "section": "",
+    "text": "station 1\nstation 2"
+  },
+  {
+    "objectID": "formations.html#second-site",
+    "href": "formations.html#second-site",
+    "title": "Formations",
+    "section": "second site",
+    "text": "second site\n\nstation 3\nstation 4"
   }
 ]
