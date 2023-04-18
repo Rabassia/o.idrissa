@@ -1,12 +1,10 @@
 ---
 title: "Formations"
-author: idrissa
+author: Dr. Idrissa OUEDRAOGO
 ---
 
-## Premier site
-- station 1
-- station 2
+## Analyse des données avec R
 
-## second site
-- station 3
-- station 4
+## Cartographie avec R
+
+## Gestion des références Bibliographiques (Mendeley, Zootero)
