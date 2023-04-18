@@ -3,8 +3,9 @@ title: "Formations"
 author: Dr. Idrissa OUEDRAOGO
 ---
 
+## Gestion des références Bibliographiques (Mendeley, Zootero)
+
 ## Analyse des données avec R
 
 ## Cartographie avec R
 
-## Gestion des références Bibliographiques (Mendeley, Zootero)
