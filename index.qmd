@@ -2,7 +2,7 @@
 title: "Dr Idrissa OUEDRAOGO"
 image: idrissa2.jpg
 about:
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 15em
   links: 
