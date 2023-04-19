@@ -17,7 +17,7 @@ about:
 
 :::{#hero-heading}
 
-**Idrissa OUEDRAOGO** est enseignant-chercheur au Centre Universitaire de Dori/Université Thomas SANKARA. Il est également enseignant-chercheur associé au Laboratoire de Biologie et Ecologie Animales de l'Ecole Doctorale Sciences et Technologies de l'Université Joseph Ki-Zerbo où il a conduit ses travaux de thèse de doctorat. Il enseigne dans les domaines de la biologie et de l'écologie animale. Ses travaux de recherche portent sur l'analyse de la dynamique des communautés animales notamment dans le contexte du  changement climatique et des pressions liées aux activités anthropiques au Burkina Faso. Passionné de l'informatique, Idrissa consacre souvent du temps au developpement de technologies pour la collecte de données climatiques et biophysiques, indispensables à l'analyse et à la modélisation des phénomènes écologiques. 
+**Idrissa OUEDRAOGO** est enseignant-chercheur au Centre Universitaire de Dori/Université Thomas SANKARA. Il est également membre du Laboratoire de Biologie et Ecologie Animales de l'Ecole Doctorale Sciences et Technologies de l'Université Joseph Ki-Zerbo où il a conduit ses travaux de thèse de doctorat. Il enseigne dans les domaines de la biologie et de l'écologie animale. Ses travaux de recherche portent sur l'analyse de la dynamique des communautés animales notamment dans le contexte du  changement climatique et des pressions liées aux activités anthropiques au Burkina Faso. Passionné de l'informatique, Idrissa consacre souvent du temps au developpement de technologies pour la collecte de données climatiques et biophysiques, indispensables à l'analyse et à la modélisation des phénomènes écologiques. 
 
 ## Education
 
